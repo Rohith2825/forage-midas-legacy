@@ -1,0 +1,7 @@
+general:
+  kafka-topic: my-topic-name
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+server:
+  port: 33400
